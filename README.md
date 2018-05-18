@@ -1,10 +1,10 @@
-# GAAD 2017 - A11ySea
+# Global Accessibility Awareness Day 2018 - A11ySea
 
-Slides for Global Accessibility Awareness Day 2017
+Slides for the Accessibility Seattle Meetup
 
-By Marcy Sutton, Senior Front-end Engineer at Deque Systems
+By Marcy Sutton, Senior Front-end Engineer
 
-Slide URL: [http://marcysutton.github.io/a11ySea-GAAD-2017](http://marcysutton.github.io/a11ySea-GAAD-2017)
+Slide URL: [http://marcysutton.github.io/a11ySea-GAAD](http://marcysutton.github.io/a11ySea-GAAD)
 
 ## Installation
 
@@ -18,7 +18,7 @@ Some reveal.js features, like external Markdown and speaker notes, require that 
 
 4. Clone the repository
    ```sh
-   $ git clone https://github.com/marcysutton/a11ySea-GAAD-2017.git
+   $ git clone https://github.com/marcysutton/a11ySea-GAAD.git
    ```
 
 5. Navigate to the project folder
@@ -44,4 +44,4 @@ Some reveal.js features, like external Markdown and speaker notes, require that 
 
 MIT licensed
 
-Copyright (C) 2017 Marcy Sutton, http://marcysutton.com
+Copyright (C) 2018 Marcy Sutton, http://marcysutton.com
